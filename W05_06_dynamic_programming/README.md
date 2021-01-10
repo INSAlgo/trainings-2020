@@ -5,7 +5,7 @@
 ### Week 5
  - [Hackerrank City](https://www.hackerrank.com/challenges/hr-city/problem)
  - [Capitalisme interplanétaire](https://prologin.org/train/2020/qualification/capitalisme_interplanetaire) (FR) : [Solution](planetes.py)
- - [O(crêpe)](https://prologin.org/train/2018/semifinal/ocrepe) (FR)
+ - [O(crêpe)](https://prologin.org/train/2018/semifinal/ocrepe) (FR) : [Solution](crepes.py)
  - [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem) : [Solution](coin_change.py)
  - [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) : [Solution](Sam_and_substrings.py)
  - [Unbounded knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) : [Solution](knapsack.py)
