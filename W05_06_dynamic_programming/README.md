@@ -8,7 +8,7 @@
  - [O(crêpe)](https://prologin.org/train/2018/semifinal/ocrepe) (FR)
  - [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem) : [Solution](coin_change.py)
  - [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings/problem) : [Solution](Sam_and_substrings.py)
- - [Unbounded knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
+ - [Unbounded knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) : [solution](knapsack.py)
 
 ### Week 6
  - [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified/problem) : [Solution](fibo_mod.py)
