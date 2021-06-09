@@ -2,7 +2,7 @@
 This week, we introduced Python to those of you who didn't know the language yet,
 and tried to solve more advanced problems with the remaining people. Here are the problems we gave, and a suggested solution.
 
-## Initiation to Ptyhon (no correction available)
+## Initiation to Python (no correction available)
  - [Hackerrank's Python beginner Python problems](https://www.hackerrank.com/domains/python)
 
 ## Beginner
